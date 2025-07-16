@@ -17,7 +17,6 @@ The Object Location and Discrimination Timer is a web-based tool for manual scor
 
 ### Prerequisites
 - Web browser with JavaScript support
-- No server required (client-side only)
 
 ### Usage
 Access and use the tool at: http://OliviaDrayson.github.io/OldTimer 
@@ -38,12 +37,20 @@ Access and use the tool at: http://OliviaDrayson.github.io/OldTimer
 
 ## References
 [1] Drayson OGG, Vozenin MC, Limoli CL. A rigorous behavioral testing platform for the assessment of radiation-induced neurological outcomes. Methods Cell Biol. 2023;180:177-197. doi:10.1016/bs.mcb.2023.02.015
-[2] Ennaceur A, Meliani K. A new one-trial test for neurobiological studies of memory in rats. III. Spatial vs. non-spatial working memory. Behav Brain Res. 1992;51(1):83-92. doi:10.1016/s0166-4328(05)80315-8
-[3] Lueptow LM. Novel Object Recognition Test for the Investigation of Learning and Memory in Mice. J Vis Exp. 2017;(126):55718. Published 2017 Aug 30. doi:10.3791/55718
-[4] Vogel-Ciernia A, Wood MA. Examining object location and object recognition memory in mice. Curr Protoc Neurosci. 2014;69:8.31.1-8.31.17. Published 2014 Oct 8. doi:10.1002/0471142301.ns0831s69
-[5] Alaghband Y, Cheeks SN, Allen BD, et al. Neuroprotection of Radiosensitive Juvenile Mice by Ultra-High Dose Rate FLASH Irradiation. Cancers (Basel). 2020;12(6):1671. Published 2020 Jun 24. doi:10.3390/cancers12061671
-[6] Kwapis JL, Alaghband Y, Keiser AA, et al. Aging mice show impaired memory updating in the novel OUL updating paradigm. Neuropsychopharmacology. 2020;45(2):337-346. doi:10.1038/s41386-019-0438-0
-[7] Parihar VK, Allen BD, Tran KK, et al. Targeted overexpression of mitochondrial catalase prevents radiation-induced cognitive dysfunction. Antioxid Redox Signal. 2015;22(1):78-91. doi:10.1089/ars.2014.5929
-[8] Parihar, V., Allen, B., Caressi, C. et al. Cosmic radiation exposure and persistent cognitive dysfunction. Sci Rep 6, 34774 (2016). https://doi.org/10.1038/srep34774
 
+[2] Ennaceur A, Meliani K. A new one-trial test for neurobiological studies of memory in rats. III. Spatial vs. non-spatial working memory. Behav Brain Res. 1992;51(1):83-92. doi:10.1016/s0166-4328(05)80315-8
+
+[3] Lueptow LM. Novel Object Recognition Test for the Investigation of Learning and Memory in Mice. J Vis Exp. 2017;(126):55718. Published 2017 Aug 30. doi:10.3791/55718
+
+[4] Vogel-Ciernia A, Wood MA. Examining object location and object recognition memory in mice. Curr Protoc Neurosci. 2014;69:8.31.1-8.31.17. Published 2014 Oct 8. doi:10.1002/0471142301.ns0831s69
+
+[5] Alaghband Y, Cheeks SN, Allen BD, et al. Neuroprotection of Radiosensitive Juvenile Mice by Ultra-High Dose Rate FLASH Irradiation. Cancers (Basel). 2020;12(6):1671. Published 2020 Jun 24. doi:10.3390/cancers12061671
+
+[6] Kwapis JL, Alaghband Y, Keiser AA, et al. Aging mice show impaired memory updating in the novel OUL updating paradigm. Neuropsychopharmacology. 2020;45(2):337-346. doi:10.1038/s41386-019-0438-0
+
+[7] Parihar VK, Allen BD, Tran KK, et al. Targeted overexpression of mitochondrial catalase prevents radiation-induced cognitive dysfunction. Antioxid Redox Signal. 2015;22(1):78-91. doi:10.1089/ars.2014.5929
+
+[8] Parihar, V., Allen, B., Caressi, C. et al. Cosmic radiation exposure and persistent cognitive dysfunction. Sci Rep 6, 34774 (2016). doi:10.1038/srep34774
+
+## Contact
 For questions, suggestions or issues please contact Olivia Drayson at drayson.o@mac.com
